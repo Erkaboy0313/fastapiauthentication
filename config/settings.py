@@ -1,0 +1,6 @@
+""" required settings """
+
+
+SECRET_KEY = "ed4e8436ac9f7fcfe529768806fef7067847fadd198c813a8c68b9cb91a74acd"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
